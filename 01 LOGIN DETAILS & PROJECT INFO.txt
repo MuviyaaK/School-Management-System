@@ -1,0 +1,21 @@
+**Admin Login Details**
+
+Email	: admin@mail.com
+Password: Password@123
+
+**staff Login Details**
+
+Email	: mohanastaff@mail.com
+Password: Mohanastaff
+
+**student Login Details**
+
+Email	: gowsikstudent@mail.com
+Password: gowsikstudent
+
+**Parent Login Details**
+
+Email	: rajeshparent@mail.com
+Password: rajeshparent
+
+
